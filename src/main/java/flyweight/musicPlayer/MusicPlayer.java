@@ -1,7 +1,6 @@
 package flyweight.musicPlayer;
 
 import static  java.util.Arrays.asList;
-import java.util.Arrays;
 import java.util.List;
 
 import flyweight.musicPlayer.instruments.Piano;
