@@ -1,10 +1,10 @@
-package flyweight.musicPlayer.instruments;
+package flyweight.music_player.instruments;
 
 import java.util.List;
 
 import org.jfugue.player.Player;
 
-import flyweight.musicPlayer.notes.Note;
+import flyweight.music_player.notes.Note;
 
 public class Piano {
 	

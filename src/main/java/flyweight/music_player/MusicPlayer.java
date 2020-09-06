@@ -1,11 +1,11 @@
-package flyweight.musicPlayer;
+package flyweight.music_player;
 
 import static  java.util.Arrays.asList;
 import java.util.List;
 
-import flyweight.musicPlayer.instruments.Piano;
-import flyweight.musicPlayer.notes.MusicNote;
-import flyweight.musicPlayer.notes.Note;
+import flyweight.music_player.instruments.Piano;
+import flyweight.music_player.notes.MusicNote;
+import flyweight.music_player.notes.Note;
 
 public class MusicPlayer {
 

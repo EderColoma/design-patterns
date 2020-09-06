@@ -1,4 +1,4 @@
-package flyweight.musicPlayer.notes;
+package flyweight.music_player.notes;
 
 import java.util.HashMap;
 import java.util.Map;
