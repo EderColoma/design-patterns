@@ -3,7 +3,7 @@
 ![Java Badge](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Maven Badge](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 
-A study on design pattern and it usages. 
+A study on design pattern and it usages.<br>
 This project contains:
 
 :heavy_check_mark: A music player which uses the <b>Flyweight</b> pattern in order to control the instantiation of music notes.<br>
